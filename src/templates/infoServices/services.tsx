@@ -14,8 +14,7 @@ export const Services = () => {
           </p>
         </div>
       </div>
-
-      <div className="w-full flex justify-center grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+      <div className="w-full flex justify-center grid gap-6 md:grid-cols-2 lg:grid-cols-4">
         {servicesData.map((service, index) => (
           <Card
             key={index}
