@@ -17,11 +17,13 @@ export const AboutUs = () => {
         <p className="text-gray-600 text-base leading-relaxed">
           En Londoño Ingeniería brindamos servicios de consultoría,
           interventoría y construcción en proyectos de infraestructura. <br /><br /> Nos
-          enfocamos en edificaciones, vías, espacios públicos, infraestructura
-          deportiva, sanitaria y distritos de riego. También ofrecemos alquiler
-          de maquinaria, fabricación de estibas plásticas y fundición de cajas
-          de concreto para sistemas eléctricos. <br /><br /> Comprometidos con la calidad y
-          la eficiencia, damos vida a tus proyectos.
+          especializamos en obras civiles como edificaciones, vías, espacios
+          públicos, infraestructura deportiva, sanitaria y distritos de riego.
+          Complementamos nuestros servicios con el suministro de estibas
+          plásticas y de madera, grama sintética y
+          mallas de nylon para cerramientos. <br /><br /> Estamos comprometidos con la
+          calidad, la eficiencia y el cumplimiento en cada uno de nuestros
+          proyectos, brindando soluciones integrales que dan vida a tus ideas.
         </p>
         <a
           href="#Contact"
