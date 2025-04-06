@@ -23,7 +23,10 @@ export const Card: FC<CardProps> = ({ image, title, description, link }) => {
 
         <div className="p-4">
           <div className="flex gap-4 items-center">
-            <h3 className="text-lg md:text-xl font-bold text-gray-900 group-hover:text-blue-500">
+            <h3
+              title={title}
+              className="text-lg md:text-xl font-bold text-gray-900 group-hover:text-blue-500 truncate  w-full"
+            >
               {title}
             </h3>
             <span className="text-lg md:text-xl font-bold text-gray-900 group-hover:text-blue-500 group-hover:translate-x-2 transition-transform transition-colors">
