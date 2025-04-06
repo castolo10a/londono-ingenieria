@@ -17,4 +17,10 @@ export const servicesData = [
     description: "Ejecución de obras con calidad y eficiencia.",
     link: "/infoServices/construction",
   },
+  {
+    image: "/assets/supplies.webp",
+    title: "Suministros Especializados",
+    description: "Soluciones en materiales logísticos y deportivos para tus proyectos.",
+    link: "/infoServices/supplies",
+  },
 ];
