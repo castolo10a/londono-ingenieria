@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   authors: [
     { name: "Daniel Castillo", url: "https://fullstack-colombia.netlify.app/" },
   ],
-  creator: "Daniel Castillo"
+  creator: "Daniel Castillo",
 };
 
 export default function RootLayout({
@@ -41,6 +41,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/favicon.jpg" />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
