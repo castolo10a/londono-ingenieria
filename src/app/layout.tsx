@@ -31,10 +31,7 @@ export const metadata: Metadata = {
   authors: [
     { name: "Daniel Castillo", url: "https://fullstack-colombia.netlify.app/" },
   ],
-  creator: "Daniel Castillo",
-  robots: "index, follow",
-  themeColor: "#1D4ED8",
-  viewport: "width=device-width, initial-scale=1.0",
+  creator: "Daniel Castillo"
 };
 
 export default function RootLayout({
