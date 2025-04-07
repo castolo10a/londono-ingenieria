@@ -14,19 +14,26 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Londoño Ingeniería Civil SAS",
+  title:
+    "Londoño Ingeniería Civil SAS - Obras Civiles y Suministros Especializados",
   description:
-    "Londoño Ingeniería Civil SAS ofrece asesorías, interventorías y ejecución de obras civiles con calidad, compromiso y profesionalismo en Colombia.",
+    "Empresa contratista que presta servicios de obras civiles, consultorías, interventorías y suministra estibas, grama sintética y mallas deportivas en todo el país. Alta presencia en municipios como Puerto Salgar, La Dorada y zonas aledañas.",
   keywords: [
-    "Londoño Ingeniería Civil SAS",
-    "obras civiles",
-    "ingeniería civil",
-    "asesorías en ingeniería",
-    "interventorías",
-    "Colombia,",
-    "construcción",
-    "infraestructura",
-    "consultoría civil",
+    "obras civiles en Colombia",
+    "consultoría en ingeniería civil",
+    "interventorías profesionales",
+    "suministros para obras",
+    "estibas plásticas y de madera",
+    "grama sintética para escenarios deportivos",
+    "mallas de nailon deportivas",
+    "Puerto Salgar",
+    "La Dorada",
+    "Magdalena Medio",
+    "Bogota",
+    "zona centro de Colombia",
+    "contratista de obras",
+    "infraestructura deportiva",
+    "suministros especializados Colombia",
   ],
   authors: [
     { name: "Daniel Castillo", url: "https://fullstack-colombia.netlify.app/" },
