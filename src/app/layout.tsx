@@ -15,25 +15,26 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title:
-    "Londoño Ingeniería Civil SAS - Obras Civiles y Suministros Especializados",
+    "Obras Civiles y Suministros en Colombia | Londoño Ingeniería Civil SAS",
   description:
-    "Empresa contratista que presta servicios de obras civiles, consultorías, interventorías y suministra estibas, grama sintética y mallas deportivas en todo el país. Alta presencia en municipios como Puerto Salgar, La Dorada y zonas aledañas.",
+    "Expertos en obras civiles, consultorías e interventorías. Suministramos estibas, grama sintética y mallas deportivas en Colombia. Alta presencia en Puerto Salgar, La Dorada y más.",
   keywords: [
-    "obras civiles en Colombia",
+    "obras civiles Colombia",
+    "ingeniería civil Colombia",
+    "empresa contratista",
     "consultoría en ingeniería civil",
     "interventorías profesionales",
-    "suministros para obras",
-    "estibas plásticas y de madera",
-    "grama sintética para escenarios deportivos",
+    "suministros para construcción",
+    "estibas plásticas y madera",
+    "grama sintética deportiva",
     "mallas de nailon deportivas",
     "Puerto Salgar",
     "La Dorada",
     "Magdalena Medio",
-    "Bogota",
-    "zona centro de Colombia",
-    "contratista de obras",
+    "Bogotá",
+    "zona centro Colombia",
     "infraestructura deportiva",
-    "suministros especializados Colombia",
+    "suministros especializados",
   ],
   authors: [
     { name: "Daniel Castillo", url: "https://fullstack-colombia.netlify.app/" },
@@ -49,6 +50,18 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <meta
+          property="og:title"
+          content="Obras Civiles y Suministros en Colombia | Londoño Ingeniería Civil SAS"
+        />
+        <meta
+          property="og:description"
+          content="Expertos en obras civiles, consultorías e interventorías. Suministramos estibas, grama sintética y mallas deportivas en Colombia."
+        />
+        <meta property="og:url" content="https://londonoingenieria.com" />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary_large_image" />
+
         <link rel="icon" href="/favicon.jpg" />
       </head>
       <body
