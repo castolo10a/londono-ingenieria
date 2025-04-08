@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://londonoingenieria.com
+
+# Sitemaps
+Sitemap: https://londonoingenieria.com/sitemap.xml
