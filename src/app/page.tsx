@@ -1,7 +1,7 @@
 "use client";
 
 import { Reveal } from "@/components";
-import { AboutUs, ContactForm, Home, Services } from "@/templates";
+import { AboutUs, ContactInfo, Home, Services } from "@/templates";
 import { useEffect } from "react";
 
 export default function Page() {
@@ -29,7 +29,7 @@ export default function Page() {
         <Services />
       </Reveal>
       <Reveal delay={0.6}>
-        <ContactForm />
+        <ContactInfo />
       </Reveal>
     </div>
   );
