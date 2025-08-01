@@ -20,7 +20,6 @@ Este es un proyecto desarrollado para **Londoño Ingeniería**, una empresa espe
 - ✅ Navegación fluida entre secciones mediante scroll animado.
 - ✅ Animaciones sutiles al hacer scroll para mejorar la experiencia del usuario.
 - ✅ Diseño **responsivo** que se adapta a dispositivos móviles, tablets y pantallas de escritorio.
-- ✅ Formulario de contacto funcional que envía mensajes directamente al correo del cliente.
 - ✅ Estructura de código clara, modular y escalable, ideal para futuras ampliaciones.
 - ✅ Optimización para SEO básico y carga rápida.
 
