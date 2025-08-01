@@ -1,6 +1,6 @@
 # Londoño Ingeniería - Landing Page
 
-Este es un proyecto desarrollado para **Londoño Ingeniería**, una empresa especializada en obras civiles. Se trata de una landing page moderna, profesional e informativa, con un diseño responsivo y un formulario de contacto integrado que permite a los visitantes enviar mensajes directamente al correo del cliente.
+Este es un proyecto desarrollado para **Londoño Ingeniería**, una empresa especializada en obras civiles. Se trata de una landing page moderna, profesional e informativa, con diseño responsive, enfocada en presentar los servicios, la historia y los valores de la empresa.
 
 🔗 **Sitio en producción:**  
 👉 [https://londonoingenieria.com/](https://londonoingenieria.com/)
